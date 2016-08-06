@@ -1,0 +1,39 @@
+_repo: The-History-of-Rome--Volumes-1-5-_10706
+_version: 0.0.1
+alternative_title: Römische Geschichte. English
+contributor:
+  translator:
+    agent_name: Dickson, William P. (William Purdie)
+    alias: Dickson, William Purdie
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '6282'
+    url: http://www.gutenberg.org/2009/agents/6282
+creator:
+  author:
+    agent_name: Mommsen, Theodor
+    aliases:
+    - Mommsen, Christian Matthias Theodor
+    - Mommzen, Teodor
+    - Mommsen, T. (Theodor)
+    - Mommsen, Theodorus
+    birthdate: 1817
+    deathdate: 1903
+    gutenberg_agent_id: '1105'
+    url: http://www.gutenberg.org/2009/agents/1105
+    wikipedia: http://en.wikipedia.org/wiki/Theodor_Mommsen
+description: ''
+gutenberg_issued: '2005-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10706'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Rome -- History'
+- GITenberg
+title: The History of Rome (Volumes 1-5)
+url: http://www.gutenberg.org/ebooks/10706
