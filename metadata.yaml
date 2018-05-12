@@ -1,5 +1,5 @@
 _repo: The-History-of-Rome--Volumes-1-5-_10706
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Römische Geschichte. English
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     deathdate: 1901
     gutenberg_agent_id: '6282'
     url: http://www.gutenberg.org/2009/agents/6282
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mommsen, Theodor
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1105
     wikipedia: http://en.wikipedia.org/wiki/Theodor_Mommsen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10706#The-History-of-Rome--Volumes-1-5-
 gutenberg_issued: '2005-03-16'
 gutenberg_type: Text
 identifiers:
